@@ -7,13 +7,4 @@ package com.pracrice.git.specimen;
  */
 public class SpecimenInfo {
 
-    private String phases = "init git";
-
-
-    @Override
-    public String toString() {
-        return "SpecimenInfo{" +
-                "phases='" + phases + '\'' +
-                '}';
-    }
 }
