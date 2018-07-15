@@ -7,4 +7,5 @@ package com.pracrice.git.specimen;
  */
 public class SpecimenInfo {
     private String order = "git merge changes";
+    private String name = "merge";
 }
