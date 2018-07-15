@@ -6,5 +6,5 @@ package com.pracrice.git.specimen;
  * @date 2018/7/14
  */
 public class SpecimenInfo {
-
+    private String order = "git merge changes";
 }
